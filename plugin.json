@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mistral-superpowers",
+  "version": "1.0.0",
+  "description": "Framework de skills et méthodologie de développement de obra (brainstorming, plans, TDD, revues) porté pour Vibe Code."
+}
