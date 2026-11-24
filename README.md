@@ -2,7 +2,7 @@
 
 Framework de skills et méthodologie de développement de obra (brainstorming, plans, TDD, revues) porté pour Vibe Code.
 
-Portage des skills de [mistral-superpowers](https://github.com/obra/mistral-superpowers) (archive de la branche `main`, 24 novembre 2026) vers le format Agent Skills utilisé par Vibe Code. 15 skills.
+Portage des skills de [superpowers](https://github.com/obra/superpowers) (archive de la branche `main`, 24 novembre 2026) vers le format Agent Skills utilisé par Vibe Code. 15 skills.
 
 ## Skills portées
 
